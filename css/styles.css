@@ -1,0 +1,10 @@
+
+/*===== BASE ===== utilizo normalize css para normalizar los navegadores+margin: 0 al h1 + co las siguientes lineas*/
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+
+/*===== Fonts=====*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+font-family: 'Poppins', sans-serif;
